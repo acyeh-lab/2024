@@ -1,7 +1,9 @@
 # acyeh2024/NetMHCIIPan
 This is a basic tutorial on how to set up NetMHCIIPan on the Fred Hutch computing clusters.
-
 Please read below for overview of how to run NetMHCIIPan shell script. 
+
+# Accessing FHCC computing cluster
+Make sure you can access rhino03 (or equivalent) cluster on the FHCC servers, including ssh (https://sciwiki.fredhutch.org/scicomputing/access_methods/), and for ease of transferring larger files, an ftp client such as filezilla.
 
 # Data preparation
 Input files needed to run scripts include:
