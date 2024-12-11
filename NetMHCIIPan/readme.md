@@ -5,6 +5,9 @@ Please read below for overview of how to run NetMHCIIPan shell script.
 # Accessing FHCC computing cluster
 Make sure you can access rhino03 (or equivalent) cluster on the FHCC servers, including ssh (https://sciwiki.fredhutch.org/scicomputing/access_methods/), and for ease of transferring larger files, an ftp client such as filezilla.
 
+# Install NetMHCII Pan
+Now, make sure to download the software (included on the main page) into your directory.  Unpack using the command line ``tar -xzvf myfile.tar.gz``.
+
 # Data preparation
 Input files needed to run scripts include:
 1) donor TCR sequences
